@@ -1,6 +1,6 @@
 markdown: rdiscount
 permalink: /:year/:month/:day/:title/
-baseurl: http://alextan.github.com/
+baseurl: http://alextan.github.com/magiccode/
 pygments: true
 paginate: 15
 safe: true
