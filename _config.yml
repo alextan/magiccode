@@ -2,8 +2,8 @@ name: Your New Jekyll Site
 description: Blogging about stuffs
 meta_description: "Your New Jekyll Site, Blogging about stuffs"
 
-markdown: redcarpet
-hightlighter: pygments
+markdown: rdiscount
+#hightlighter: pygments
 logo: false
 paginate: 15
 
