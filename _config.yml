@@ -6,5 +6,5 @@ safe: true
 
 permalink: /:year/:month/:day/:title/
 # Details for the RSS feed generator
-url: https://alextan.github.com
+url: https://alextan.github.com/magiccode
 author: "Alex"
