@@ -1,10 +1,8 @@
-
 markdown: rdiscount
+permalink: /:year/:month/:day/:title/
+url: http://alextan.github.com
 pygments: true
 paginate: 15
 safe: true
-
-permalink: /:year/:month/:day/:title/
-# Details for the RSS feed generator
-url: https://alextan.github.com/magiccode
 author: "Alex"
+excerpt_separator: ""
