@@ -1,2 +1,12 @@
-markdown: kramdown
-permalink: pretty
+name: Your New Jekyll Site
+description: Blogging about stuffs
+meta_description: "Your New Jekyll Site, Blogging about stuffs"
+
+markdown: redcarpet
+hightlighter: pygments
+logo: false
+paginate: 15
+
+# Details for the RSS feed generator
+url:            'blog url'
+author:         'Your Name'
