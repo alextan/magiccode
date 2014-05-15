@@ -1,2 +1,2 @@
-markdown: rdiscount
-pyqments: true
+markdown: kramdown
+permalink: pretty
