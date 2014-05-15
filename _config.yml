@@ -1,8 +1,7 @@
-markdown: rdiscount
-permalink: /:year/:month/:day/:title/
-baseurl: http://alextan.github.com/magiccode/
-pygments: true
-paginate: 15
-safe: true
-author: "Alex"
-excerpt_separator: ""
+# visit https://github.com/mojombo/jekyll/wiki/Configuration for more settings
+
+auto: true # automatically update your jekyll
+server: true # runs a local server
+paginate: 10 # pagination basted on number of posts
+exclude: ["Gemfile", "Gemfile.lock", "README.md", 'sass', 'watch.sh', 'style.scss'] # files to exclude
+
