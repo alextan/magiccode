@@ -1,13 +1,10 @@
-name: Your New Jekyll Site
-description: Blogging about stuffs
-meta_description: "Your New Jekyll Site, Blogging about stuffs"
 
 markdown: rdiscount
-#hightlighter: pygments
-logo: false
+pygments: true
 paginate: 15
-source: .
+safe: true
 
+permalink: /:year/:month/:day/:title/
 # Details for the RSS feed generator
-url:            'blog url'
-author:         'Your Name'
+url: https://alextan.github.com
+author: "Alex"
