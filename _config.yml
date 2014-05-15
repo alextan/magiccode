@@ -6,6 +6,7 @@ markdown: rdiscount
 #hightlighter: pygments
 logo: false
 paginate: 15
+source: .
 
 # Details for the RSS feed generator
 url:            'blog url'
